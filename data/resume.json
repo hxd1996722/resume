@@ -1,108 +1,89 @@
 {
-    "avatar": "/resume/data/3.jpg",
+        "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "胡旭东",
+        "name": "周俊",
         "description": "岂能尽如人意，但求无愧我心",
-        "school": "大专",
-        "profession": "计算机应用技术（学信网可查）",
+        "school": "中山大学",
+        "profession": "计算机科学与技术",
         "sex": "男",
-        "education" : "专科",
-        "workage": "2017届毕业",
-        "phone": "18671366391",
-        "email": "1311725795@qq.com
-"
+        "education" : "本科",
+        "workage": "2012届毕业",
+        "phone": "15088888888",
+        "email": "tonjayin@gmail.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://app.ceair.com/",
+            "link": "https://github.com/Jayin",
             "icon": ""
         },
         {
             "type": "weibo",
-            "link": "http://app.mi.com/details?id=com.xy.jyt",
+            "link": "http://weibo.com",
             "icon": ""
         },
         {
             "type": "linkedin",
-            "link": "http://app.mi.com/details?id=com.xy.da",
+            "link": "https://www.linkedin.com",
             "icon": ""
         },
         {
             "type": "twitter",
-            "link": "http://app.mi.com/details?id=com.xy.shop",
+            "link": "https://twitter.com",
             "icon": ""
         },
         {
             "type": "home",
-            "link": "https://app.ceair.com/",
+            "link": "https://github.com/Jayin",
             "icon": ""
         }
     ],
     "Awards": [
         {
-            "name": "职业技能 "
+            "name": "中山大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
         },
         {
-            "name": "1.掌提软件测试理论，软件测试流程以及测试用例设计方法，能独立负责测试计划，执行测试用例推动测试流程  分析测试结果  编写测试报告；"
+            "name": "第X届XX杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
         },
         {
-            "name": "2. 掌握 Web测试和API接口测试方法，会使用Postman或Jmeter进行接口压力性能测试；会使用运用抓包工具fiddler  charles"
+            "name": "第X届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
         },
         {
-            "name": "3. 熟悉 Andriod和IOS系统，掌握移动端测试方法；能利用Monkey进行app自动化测试，熟悉常用的adb命令"
+            "name": "201X百度校园助手大赛优秀开发奖"
         },
         {
-            "name": "4.熟悉Bug管理跟踪工具（bugfree、禅道、QC、trac）、项目管理工具SVN，项目管理平台云效；"
-        }
-    ],
-         "name": "5.熟悉MySQL数据库，能够编写SQL语句对数据进行验证；"
-        }
-    ],
-         "name": "6.熟悉Linux基本操作命令，能独立搭建测试环境以及查看服务器日志进行分析问题；"
-        }
-    ],
-         "name": "7.熟悉 Python基础语法，熟悉pytest编写单元测试用例并生成网页测试报告，python+selenium，python+Appium；"
-        }
-    ],
-         "name": "8.熟悉 Xmind、Jmeter+badboy、Postman、Loadrunner、PyCharm、Appium等测试工具。"
-        }
-    ],
-         "name": "9.熟悉web端，APP，微信小程序，h5从微信或支付宝开放平台申请应用支付  密钥配置  项目产品落地起盘  测试提升项目质量  上线  推广打活动高并发测试   阿里云服务器配置负载均衡全流程；"
-        }
-    ],
-         "name": "10. 会java语言，有代码基础，做过富士康模具生产系统下的图书搜索管理页"
+            "name": "201X华南XX杯广东省Java程序员竞赛三等奖"
         }
     ],
     "socialExperiences": [
         {
-            "name": "自我评价",
-            "description": " 自我评价性格温和，有耐心，能承受一定的压力，保持积极饱满的工作状态，能快速学习提升自己，适应新的项目，有良好的沟通能力与团队合作意识责任心强，能够吃苦耐劳，有良好的分析能力和解决问题的技能。
-"
+            "name": "加入XX移动开发工作室",
+            "name_link": "https://github.com/Jayin",
+            "description": "大学唯一加入的组织，期间与团队共同开发了校友录，东莞培训中心App，轻会议等多款产品"
         },
         {
-    
+            "name": "组织X次校内开发者交流会",
+            "name_link": "https://github.com/Jayin",
+            "description": "受Ruby China Conf启发，也地处三线城市IT氛围不浓厚，所以自行组织了3次交流会"
         }
     ],
     "InternExperiences": [
         {
-            "name": "广州兴移科技有限公司",
+            "name": "深圳XX网络科技有限公司",
             "name_link": "",
-            "title": "测试工程师",
+            "title": "前端开发工程师",
             "icon": "",
-            "description": "项目：洋物派电商（小程序），税小二（web端），多啦画景（H5，APP），美鳄街（APP）雷达名片（小程序，APP），365展会（小程序，APP），简优町（小程序，app）,有张名片（小程序，APP），范达人，新秀网拍（APP），众包码（小程序）   责任描述：经历app用户从0到30万过程。2.负责新增模块客户端测试以及后台测试。
-",
+            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
             "time": "2015.04 - 2015.09",
             "location": "广东 深圳"
         },
         {
-            "name": " 东方航空APP     ",
+            "name": "深圳XXX网络科技有限公司",
             "name_link": "",
-            "title": "测试工程师",
+            "title": "PHP开发工程师",
             "icon": "",
-            "description": "项目描述：东航APP是一款集机票预订、航班动态、酒店预订、会员服务、航班改期、订单管理、值机选座等服务的移动客户端
-",
+            "description": "基于开源商城系统OpenCart二次开发一外贸商城",
             "time": "2014.07 - 2014.08",
             "location": "广东 江门"
         }
